@@ -1,0 +1,86 @@
+.row{
+  margin: auto;
+  width: 100vw;
+  height: 150px;
+margin-bottom: 40px;
+}
+.redbox{
+  height: 100%;
+  width: 30%;
+  margin: 0px 10px;
+  background-color: red;
+  display:inline-block;
+}
+.bluebox{
+  height: 100%;
+  width: 30%;
+  margin: 0px 10px;
+  background-color: blue;
+  display:inline-block;
+}
+.graybox{
+  height: 100%;
+  width: 30%;
+  margin: 0px 10px;
+  background-color: gray;
+  display: inline-block;
+}
+.textsection{
+  height: 400px;
+  width: 100vw;
+  background-color:white;
+  position:relative;
+}
+.text1{
+  height: 240px;
+  width: 100%;
+  font-size: 27px;
+}
+.text2{
+  height: 160px;
+  width: 100%;
+  font-size: 27px;
+}
+.bigbox{
+  height: 400px;
+  width: 100vw;
+  position:relative;
+  margin-bottom: 40px;
+}
+.bigred{
+  height: 100%;
+  width: 30%;
+  display: inline-block;
+  position:absolute;
+  left:0;
+  background-color: red;
+}
+.bigblue{
+  height: 100%;
+  width: 70%;
+  position:absolute;
+  right:0;
+  display: inline-block;
+  background-color: blue;
+}
+.medblue{
+  height: 140px;
+  width: 100vw;
+  background-color: blue;
+  position: relative;
+  margin-top: 40px;
+}
+.medred{
+  height: 100%;
+  width: 30%;
+  position: absolute;
+  right: 0;
+  background-color: red;
+}
+.medgray{
+  height: 100%;
+  width: 20%;
+  position: absolute;
+  right: 50px;
+  background-color: gray;
+}
