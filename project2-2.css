@@ -1,0 +1,89 @@
+.body{
+  background-color: lightgray;
+}
+.box1{
+  margin: 50px 70px;
+  height: 450px;
+  width: 1080px;
+  background-color: white;
+}
+.box2{
+  margin: 50px 70px;
+  height: 1200px;
+  width: 1080px;
+  background-color: white;
+  position:relative;
+}
+.box3{
+  margin: 0px 0px 0px 0px;
+  width: 100vw;
+  height: 100px;
+  background-color: black;
+}
+.text{
+margin: 0px 35px;
+width: 1030px;
+height:300px;
+position:relative;
+top: 35px;
+font-size: 35px;
+}
+.redbutton{
+  margin: 0px 35px;
+  background-color:red;
+  height: 100px;
+  width: 200px;
+  display:inline-block;
+  position:relative;
+}
+.bluebutton{
+  margin: 0px 35px;
+  background-color:blue;
+  height: 100px;
+  width: 200px;
+  display:inline-block;
+  position: relative;
+}
+.click{
+  color:white;
+  font-size: 60px;
+  position: absolute;
+  top: 18%;
+  left: 18%;
+  margin: 0;
+}
+.imgbox{
+margin: 25px 35px;
+width: 1030px;
+height: 750px;
+background-color: darkgray;
+position: relative;
+top:35px;
+right: 10px;
+}
+.imgtext{
+  color:white;
+  font-size: 60px;
+  position: absolute;
+  top: 45%;
+  left: 35%;
+  margin: 0;
+}
+.apple{
+display: inline-block;
+float:right;
+color: white;
+position:relative;
+font-size: 40px;
+right: 150px;
+top:25px;
+}
+.google{
+float:right;
+display: inline-block;
+color:white;
+position:relative;
+font-size: 40px;
+right: 90px;
+top: 25px;
+}
