@@ -1,0 +1,73 @@
+.starttext{
+  margin: 40px 15vw;
+  font-size: 21px;
+  font-family: sans-serif;
+}
+.welcome{
+  font-weight:bold;
+  font-size: 21px;
+  float:right;
+  margin-right: 15vw;
+  margin-bottom: 40px;
+  margin-left: 65vw;
+  display: block;
+  font-family: sans-serif;
+}
+.iconleft{
+  margin-left: 15vw;
+  margin-right: 3vw;
+  float:left;
+  display:inline-block;
+  width: 12vw;
+  max-width: 255px;
+  min-width: 135px;
+  height:155px;
+
+}
+.iconright{
+  margin-right: 15vw;
+  margin-left: 3vw;
+  float:left;
+  display:inline-block;
+  width: 12vw;
+  max-width: 255px;
+  min-width: 135px;
+  height:155px;
+
+}
+.iconmid{
+  float:left;
+  margin-left: 3vw;
+  margin-right: 3vw;
+  display:inline-block;
+  width : 12vw;
+  min-width: 135px;
+  max-width: 255px;
+  height:155px;
+}
+.line{
+  margin-left: 15vw;
+  width: 70vw;
+  height: 2px;
+  background-color:black;
+  float:left;
+}
+.commitment{
+  margin: 20px 20vw 20px 20vw;
+  font-size: 13px;
+  font-family: sans-serif;
+}
+.terms{
+  margin-left: 38vw;
+  color: blue;
+  float:left;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+.privacy{
+  margin-left: 2vw;
+  color:blue;
+  float:left;
+  font-size: 15px;
+  font-family: sans-serif;
+}
